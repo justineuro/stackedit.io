@@ -8,3 +8,5 @@ is the Welcome page from StackEdit; my first puiblication created using [stacked
 is the Welcome page from StackEdit; my first puiblication created using [stackedit.io](https://stackedit.io) app
 - [Welcomefile.md](https://justineuro.github.io/stackedit.io/Welcomefile.md) - 
 is the Welcome page from StackEdit; my first puiblication created using [stackedit.io](https://stackedit.io) app
+- [Welcome file.html](https://justineuro.github.io/stackedit.io/Welcome%20file.html) - 
+is the Welcome page from StackEdit; my first puiblication created using [stackedit.io](https://stackedit.io) app
